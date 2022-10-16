@@ -28,7 +28,7 @@ Youtube Link: https://www.youtube.com/watch?v=LMagNcngvcU
 
 **Sally**
 
-I create the main map page. I marked main rivers in the world with pop-up buttons, and when the users click on a specific river, they can see basic information of it, as long as a sidebar of details (animal, plants, and culture in that region). And if they click on the specific area, it will show more specific information.
+I create the main map page. I marked main rivers in the world with pop-up buttons, and when the users click on a specific river, they can see basic information of it, as well as a sidebar of details (animal, plants, and culture in that region). And if they click on the specific area, it will show more specific information.
 
 **Yuxin**
 
