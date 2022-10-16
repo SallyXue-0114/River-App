@@ -17,7 +17,9 @@
 
 **Leena**
 
-To create the webpage homepage I used a tutorial video on youtube since I didn't have much web development experience. After getting a basic outline for the website I designed the UI interface by adding my own images and changing the color theme of the website by using a gradient. I also deleted some pop ups and edited the navbar. I did this through react app in visual studio code.
+To create the webpage homepage I used a tutorial video on youtube since I didn't have much web development experience. After getting a basic outline for the website I designed the UI interface by adding my own images and changing the color theme of the website by using a gradient. I also edited some pop ups and edited the navbar. I did this through react app in visual studio code. 
+
+Youtube Link: https://www.youtube.com/watch?v=LMagNcngvcU
 
 **Sally**
 
