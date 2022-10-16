@@ -7,7 +7,11 @@
 
 ### [Live Site2](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
 
-![The River APP](https://i.postimg.cc/9FCwXftW/map.png)
+![Map](https://i.postimg.cc/9FCwXftW/map.png)
+
+![Popup1](https://i.postimg.cc/VsB5h8y2/popup1.png)
+
+![Popup2](https://i.postimg.cc/RZ80tCfJ/popup2.png)
 
 ## Introduction
 
