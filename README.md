@@ -6,15 +6,7 @@
 ![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
 
-### [Map](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
-
-![Map](https://i.postimg.cc/9FCwXftW/map.png)
-
-![Popup](https://i.postimg.cc/VsB5h8y2/popup1.png)
-
-![Popup](https://i.postimg.cc/RZ80tCfJ/popup2.png)
-
-
+### [Map]
 
 https://user-images.githubusercontent.com/92959551/196064075-25451ab2-56fb-4c31-b68b-1af1baccecf7.mov
 
