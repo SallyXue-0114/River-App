@@ -15,3 +15,9 @@ To create the webpage homepage I used a tutorial video on youtube since I didn't
 I create the main map page. I marked main rivers in the world with pop-up buttons, and when the users click on a specific river, they can see basic information of it, as long as a sidebar of details (animal, plants, and culture in that region). And if they click on the specific area, it will show more specific information.
 
 **Yuxin**
+
+I create the 'upload file' page and the 'description' page. 
+
+I also do the data collection part. I search for the basic information (latitudes and longitudes) and the fauna/flora and cultural group information related to our six rivers. I incorporate these sources into a csv file.
+
+Besides, I create the presentation of our project.
