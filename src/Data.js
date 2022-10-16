@@ -9,7 +9,7 @@ function Data() {
         <div class = "box-main">
           <div class = "firstHalf">
             <h1 class = "text-big">
-              Boto
+              Boto🐬
             </h1>
             <p class = "text-small">
               Desriptions:
@@ -23,7 +23,8 @@ function Data() {
             <p class = "text-small">
               3. Pink and white when mature
             </p>
-              <img src = {image} width = {200} height = {200} alt = ""></img>
+            <br></br>
+              <img src = {image} width = {400} height = {300} alt = ""></img>
           </div>
         </div>
       </section>

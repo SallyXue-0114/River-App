@@ -66,7 +66,7 @@ class File extends Component {
 		return (
 		<div>
 			<br />
-			<h4>Choose before Pressing the Upload button</h4>
+			<h5>*Choose before Pressing the Upload button</h5>
 		</div>
 		);
 	}
@@ -77,8 +77,9 @@ class File extends Component {
 	return (
 		<div>
 			<h3>
-			Please upload your files!
+			💗Please upload your files!
 			</h3>
+			<h5>❓Any comments, updates or interesting pictures?</h5>
 			<div>
 				<input type="file" onChange={this.onFileChange} />
 				<button onClick={this.onFileUpload}>

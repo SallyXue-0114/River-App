@@ -2,6 +2,9 @@ import { render } from "@testing-library/react";
 import React, {Component, useState, TouchableOpacity, Text} from "react";
 import image from "./worldmap.png"; 
 import Popup from "./components/Popup"
+import Data from "./Data"
+import File from "./File"
+import Menu from "./Menu"
 
 
 function App(){
@@ -47,7 +50,10 @@ function App(){
 
         <Popup trigger = {buttonPopup} setTrigger={setButtonPopup}>
           <h3>Documentation</h3>
-          <p>information</p>
+          <Data></Data>
+          <br></br>
+          <File></File>
+          
         </Popup>
       </div>
     );
