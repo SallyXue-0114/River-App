@@ -6,7 +6,7 @@
 ![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
 
-### [Map]
+### Map
 
 https://user-images.githubusercontent.com/92959551/196064075-25451ab2-56fb-4c31-b68b-1af1baccecf7.mov
 
