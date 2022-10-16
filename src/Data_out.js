@@ -1,27 +1,27 @@
 import React from 'react';
 import './Data.css';
-import image from "./amazon.png"
+import image from "./Boto.png"
 
-function Data() {
+function Data_out() {
   return (
     <div>
       <section class = "section">
         <div class = "box-main">
           <div class = "firstHalf">
             <h1 class = "text-big">
-              Amazon River
+              Boto🐬
             </h1>
             <p class = "text-small">
-              Basic informations:
+              Desriptions:
             </p>
             <p class = "text-small">
-              Longitude: -50.089443E
+              1. Largest river dolphin
             </p>
             <p class = "text-small">
-              Latitude: 0.707778N
+              2. Gray when young
             </p>
             <p class = "text-small">
-              Oriiginates in Peru, meanders through nine South America countries
+              3. Pink and white when mature
             </p>
             <br></br>
               <img src = {image} width = {300} height = {225} alt = ""></img>
@@ -32,4 +32,4 @@ function Data() {
   )
 }
 
-export default Data;
+export default Data_out;
