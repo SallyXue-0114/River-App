@@ -2,7 +2,7 @@
 
 ### [Live Site](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
 
-![The River APP](https://postimg.cc/bsY12y2B)
+![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
 ## Introduction
 
