@@ -1,8 +1,10 @@
 # River App Website
-### [Live Site](https://gpt3-jsm.com/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/we.png)
-![The River App website](https://github.com/[SallyXue-0114]/[River-App]/blob/[branch]/websitehomepage.png?raw=true)
+### [Live Site](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
+
+![The River APP](https://ibb.co/Krj7Wpq)
+
+
 
 ## Introduction
 
