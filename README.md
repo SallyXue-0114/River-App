@@ -1,20 +1,14 @@
-# Modern UI/UX GPT-3
+# River App Website
 ### [Live Site](https://gpt3-jsm.com/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+**Leena**
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+To create the webpage homepage I used a tutorial video on youtube since I didn't have much web development experience. After getting a basic outline for the website I designed the UI interface by adding my own images and changing the color theme of the website by using a gradient. I also deleted some pop ups and edited the navbar. I did this through react app in visual studio code.
+
+**Sally**
+
+**Yuxin**
