@@ -24,7 +24,7 @@ function Data() {
               3. Pink and white when mature
             </p>
             <br></br>
-              <img src = {image} width = {400} height = {300} alt = ""></img>
+              <img src = {image} width = {200} height = {150} alt = ""></img>
           </div>
         </div>
       </section>

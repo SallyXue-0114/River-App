@@ -80,6 +80,7 @@ class File extends Component {
 			💗Please upload your files!
 			</h3>
 			<h5>❓Any comments, updates or interesting pictures?</h5>
+			<br></br>
 			<div>
 				<input type="file" onChange={this.onFileChange} />
 				<button onClick={this.onFileUpload}>

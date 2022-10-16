@@ -1,24 +1,18 @@
-import React from 'react';
-import './App.css';
-import Navbar from './components/Navbar';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import Reports from './pages/Reports';
-import Products from './pages/Products';
+import Sidebar from './components/Sidebar'
+import Data from "./Data"
+import File from "./File"
 
 function Menu() {
   return (
-    <>
-      <Router>
-        <Navbar />
-        <Routes>
-          <Route path='/' exact component={Home} />
-          <Route path='/reports' component={Reports} />
-          <Route path='/products' component={Products} />
-        </Routes>
-      </Router>
-    </>
-  );
+    <div className="main">
+      <Sidebar />
+      <div className="container">
+        <Data></Data>
+        <br></br>
+        <File></File>
+      </div>
+    </div>
+  )
 }
 
-export default Menu;
+export default Menu
