@@ -4,8 +4,6 @@
 
 ![The River APP](https://ibb.co/Krj7Wpq)
 
-
-
 ## Introduction
 
 **Leena**
