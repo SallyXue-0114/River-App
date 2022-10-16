@@ -1,5 +1,20 @@
-# River-App
-Presentation: https://docs.google.com/presentation/d/1aF9_wT_GykD3yxY2fbx7eQttkG3hBSAR-hdAxy7WFwU/edit#slide=id.g1689bef1c6f_1_17101
+# Modern UI/UX GPT-3
+### [Live Site](https://gpt3-jsm.com/)
 
-Google drive: https://drive.google.com/drive/folders/1LmpNaYi949v07SYp1uUBfgkVsC-M6XPW?usp=sharing
-  (This includes all photos that we are going to display.)
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+
+## Introduction
+This is a code repository for the corresponding video tutorial. 
+
+You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
