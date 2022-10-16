@@ -2,7 +2,7 @@
 ### [Live Site](https://gpt3-jsm.com/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/we.png)
-![The River App website](https://github.com/[SallyXue-0114]/[River-App]/blob/[branch]/websitehomepage.png?raw=true)
+![alt text](http://url/to/websitehomepage.png)
 
 ## Introduction
 
