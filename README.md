@@ -1,6 +1,7 @@
 # River App Website
 
 ### [Homepage](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
+**GitHub Link to otherwebsite portion** https://github.com/leeabd123/CodeADA-Website
 
 ![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
