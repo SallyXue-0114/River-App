@@ -13,7 +13,7 @@
 
 ![Popup](https://i.postimg.cc/RZ80tCfJ/popup2.png)
 
-[![Demo CountPages alpha](https://gifs.com/gif/river-demo-lRNK3j)](https://www.youtube.com/watch?v=aH8gQiqqzdg)
+
 
 ### [Presentation](https://docs.google.com/presentation/d/1aF9_wT_GykD3yxY2fbx7eQttkG3hBSAR-hdAxy7WFwU/edit#slide=id.g1689bef1c6f_0_0)
 
