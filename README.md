@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/92959551/196064075-25451ab2-56fb-4c31-
 
 ### [Presentation](https://docs.google.com/presentation/d/1aF9_wT_GykD3yxY2fbx7eQttkG3hBSAR-hdAxy7WFwU/edit#slide=id.g1689bef1c6f_0_0)
 
-## Introduction
+## Contributor
 
 **Leena**
 
